@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TorchPaint</string>
+    <string name="hint_text">Use the volume button to control the flashlight</string>
 </resources>
